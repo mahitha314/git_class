@@ -1,0 +1,80 @@
+div{
+    width:450px;
+    height:250px;
+    border:2px solid black;
+   
+    
+    background-image: url("https://images.unsplash.com/photo-1663852397535-18292e115327?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+     background-repeat: no-repeat;
+     background-size:coVER;
+     background-position-y: center;
+/* background-color: black; */
+/* background-blend-mode:color; */ 
+/* border-image-slice:10; */
+    border-image-width : 800px;  
+    /* border-image-outset: 0px; */ 
+    /* border-image-repeat:stretch;
+     background-size:contain;
+     /* background-repeat: no-repeat; */
+    margin:200px auto; 
+    
+}
+img{
+   background-color:#dfdfdf;
+   mix-blend-mode: color-burn;
+    width:150px;
+    height: 290px;;
+    display: inline-block;
+    background-color: transparent; /* Remove any background color */
+    
+    position: absolute;
+    top:130px;
+    left:160px;
+}
+H5{
+    font-size:18px;
+    font-family:cursive;
+    color:white;
+    position: absolute;
+    top:320px;
+    left:160px;
+
+}h4{
+    font-size:20px;
+    color:white;
+    position: absolute;
+    top:360px;
+    left:160px;
+}h6{
+    font-size: large;
+    color:white;
+    position: absolute;
+    top:380px;
+    left:160px;
+}
+.car{
+    font-size: 15px;
+    color:white;
+    position: absolute;
+   top:240px;
+    left:370px;
+}
+.car1{
+    font-size: 30px;
+    color:white;
+    position: absolute;
+   top:190px;
+    left:370px;
+}
+.car2{
+    font-size: 30px;
+    color:yellow;
+    position: absolute;
+   top:190px;
+    left:490px; }
+ /* i{
+   
+    position: absolute;
+   top:190px;
+    left:960px;
+}  */  
