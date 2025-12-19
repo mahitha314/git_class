@@ -1,0 +1,7 @@
+echo "# git_class" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mahitha314/git_class.git
+git push -u origin main
